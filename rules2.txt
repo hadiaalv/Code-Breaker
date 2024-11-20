@@ -1,0 +1,9 @@
+
+			-Guess the next number in a series of randomly generated numbers.
+			-This will repeat 5 times.
+			-Each player will be alloted 5 points in the beginning.
+			-If you guess correctly, you gain a point, and vice versa.
+			-In the end, the player with most point wins and gets to choose a dare for the loser.
+			-It is done by selecting a random number between the given limit.
+
+

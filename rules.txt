@@ -1,0 +1,8 @@
+
+			-Guess the next number in a series of randomly generated numbers.
+			-This will repeat 5 times.
+			-You'll be alloted 5 points in the beginning.
+			-If you guess correctly, you gain a point, and vice versa.
+			-If you run out of points, you lose.
+
+
